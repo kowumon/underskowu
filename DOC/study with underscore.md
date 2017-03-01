@@ -100,31 +100,3 @@ _.initial = function initial(array, n) {
 아직 언더스코어를 정확하게 이해하지 못했습니다. 장기적인 프로젝트가 될 것 같습니다. [ [underscore-docs]]( http://underscorejs.org/docs/underscore.html) 을 읽으면서 정리도 하면서 하나씩 함수를 만들 예정입니다. 
 
 글을 읽어주셔서 감사합니다. 
-
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 

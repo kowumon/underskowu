@@ -4,14 +4,11 @@
 
 ### Underscore는 무엇인가? 
 
-![underscore](C:\Users\kowum\playground\Underskowu\DOC\img\underimg.png)   
+![underscore](https://github.com/kowumon/underskowu/blob/master/DOC/img/underimg.png)   
                    
 
 Underscore.js는 자바스크립트 언어 기반의 라이브러리입니다. Jeremy Ashkenas 이 만들었고 코딩 할 때 유용하게 쓸 수 있는 80개나 넘는 함수들을 제공합니다. 언더스코어 함수 중에는 현재  브라우저에 내장되어있는 함수와 같은 기능을 하는 함수가 많습니다. 더 업그레이드 된 버전으로 Lodash가 있습니다. 더 자세한 설명은 http://underscorejs.org/ 에서 참고하시길 바랍니다. 
 
-참고 링크 
-
-유목코딩 http://seoh.blog/2012/10/09/getting-cozy-with-underscore-js/
 
 ### 프로젝트 시작
 
@@ -27,7 +24,7 @@ Underscore.js는 자바스크립트 언어 기반의 라이브러리입니다. J
 
 언더스코어는 [QUnit](http://qunitjs.com/) 테스트 프레임 워크를 이용했습니다.  
 
- ![quint](C:\Users\kowum\playground\Underskowu\DOC\img\qunit.png)
+ ![quint](https://github.com/kowumon/underskowu/blob/master/DOC/img/qunit.png)
 
 내가 짠 함수 코드가 테스트 코드에 얼만큼 맞는지, 그리고 어디가 틀렸는지를 가르쳐 주고 시간도 확인 할 수 있습니다.  통과하면 초록색이 뜰 것이고, 틀리면 내용과 함께 빨간색으로 처리됩니다.
 

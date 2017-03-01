@@ -247,9 +247,6 @@
     }
     return newArr;
   };
-  _.reduce = function reduce(array, current) {
-
-  }
 
   //_.filter
   _.filter = _.select = function filter(list, predicate) {
